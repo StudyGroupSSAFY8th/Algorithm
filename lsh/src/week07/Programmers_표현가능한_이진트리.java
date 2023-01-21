@@ -51,7 +51,7 @@ public class Programmers_표현가능한_이진트리 {
         }
 
         boolean check = true;
-        //서브 문자열의 길이가 3이상이면 재귀호출
+   //서브 문자열의 길이가 3이상이면 재귀호출
         if(leftSubNum.length() >= 3){
             check = dfs(leftSubNum);
 
