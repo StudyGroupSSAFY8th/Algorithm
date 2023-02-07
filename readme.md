@@ -31,3 +31,4 @@
 |7주차 (23.01.09~23.01.16)|[LV3 정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105)|[LV3 표현 가능한 이진트리](https://school.programmers.co.kr/learn/courses/30/lessons/150367)|[LV3 N으로 표현](https://school.programmers.co.kr/learn/courses/30/lessons/42895)|[LV3 단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163)|
 |8주차 (23.01.16~23.01.23)|설날|설날|[LV3 풍선 터트리기](https://school.programmers.co.kr/learn/courses/30/lessons/68646)|[LV3 기둥과 보 설치](https://school.programmers.co.kr/learn/courses/30/lessons/60061)|
 |9주차 (23.01.30~23.02.06)|[LV 3 보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258)|-|[P4 산타의 선물 공장 1](https://www.codetree.ai/training-field/frequent-problems/santa-gift-factory/)|-|
+|10주차 (23.02.06~23.02.13)|[LV 3 스타 수열](https://school.programmers.co.kr/learn/courses/30/lessons/70130)|-|[P4 코드트리 빵](https://www.codetree.ai/training-field/frequent-problems/codetree-mon-bread/)|-|
