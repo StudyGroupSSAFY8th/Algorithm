@@ -28,7 +28,6 @@ public class Programmers_풍선_터트리기 {
 
     //특정 값을 선택했을 때 왼쪽부분의 최소값 구하기
     static void setLeftMin(int[] a){
-
         int min = Integer.MAX_VALUE;
 
         for(int i = 0; i < a.length; i++){
