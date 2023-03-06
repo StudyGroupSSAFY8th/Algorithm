@@ -114,8 +114,6 @@ public class CodeTree_산타의_선물공장 {
             }
         }
 
-        //노드 추가 - 중간에 => 문제에서는 필요없는 기능.
-
         //노드 삭제
         void removeNode(Node currentNode){
 
@@ -151,7 +149,6 @@ public class CodeTree_산타의_선물공장 {
                 head.left = null;
             }
 
-
             returnNode.left = null;
             returnNode.right = null;
 
@@ -163,7 +160,6 @@ public class CodeTree_산타의_선물공장 {
 
     static int n; //총 물건 수
     static int m; //벨트 수
-    static long total; //하차한 선물 무게 합계
     static CustomLinkedList[] factory; // 공장
     static Map<String,Node> factoryMap; //각 컨베이어 벨트 안의 정보 저장.
     static StringBuilder result;//출력할 빌더
@@ -189,7 +185,6 @@ public class CodeTree_산타의_선물공장 {
         for(int i = 3; i < 3+n; i++){
             String boxId = commandInfo[i];
             int boxWeight = Integer.parseInt(commandInfo[i+n]);
-
 
             //노드 만들기
             Node node = new Node(boxWeight,boxId, beltIndex+1);
