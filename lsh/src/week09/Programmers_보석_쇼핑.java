@@ -98,8 +98,6 @@ public class Programmers_보석_쇼핑 {
 
         int jewelCount = jewelNum(gems); //보석의 종류 수 구하기.
 
-        //윈도우 사이즈를 구해서 체크하기 - 윈도우 사이즈는 (보석종류의 수) ~ (gems사이즈)
-
 
         return findSectionCheck(gems,jewelCount);
     }
