@@ -1,3 +1,6 @@
 *.iml
 production/
 .idea/
+../out/
+../.idea/
+../*.iml
